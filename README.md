@@ -55,5 +55,12 @@ AUDIT NOTES:</br>
 &nbsp; - Audit included code review and team KYC's</br>
 </br>
 </br>
+SMART CONTRACT DESIGN DIAGRAM</br>
+</br>
+<img src="https://github.com/LayerOneCloud/gamblershiba.io/blob/main/SmartContract-DesignDiagram-A.png"></br>
+</br>
+<img src="https://github.com/LayerOneCloud/gamblershiba.io/blob/main/SmartContract-DesignDiagram-B.png"></br>
+</br>
+</br>
 </br>
 END of FILE
