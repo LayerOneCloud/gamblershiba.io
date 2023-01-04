@@ -57,8 +57,10 @@ AUDIT NOTES:</br>
 </br>
 SMART CONTRACT DESIGN DIAGRAM</br>
 </br>
+ Diagram A</br>
 <img src="https://github.com/LayerOneCloud/gamblershiba.io/blob/main/SmartContract-DesignDiagram-A.png"></br>
 </br>
+ Diagram B</br>
 <img src="https://github.com/LayerOneCloud/gamblershiba.io/blob/main/SmartContract-DesignDiagram-B.png"></br>
 </br>
 </br>
