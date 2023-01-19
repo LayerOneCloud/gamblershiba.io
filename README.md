@@ -1,18 +1,18 @@
 PROJECT: gamblershiba.io</br>
 </br>
-KYC COMPLETED - 2022-12-01</br>
+KYC COMPLETED - none</br>
 CONTRACT AUDIT COMPLETED - 2023-01-02</br>
 </br>
 </br>
 IS IT SAFE?</br>
 </br>
-YES: This project is considered safe from potential rugging (fraud), full LayerOne KYC completed.</br>
 YES: The contract code contains no known bugs or weaknesses.</br>
+RISK: This project has not completed a LayerOne KYC.  While the project owners are well known to the fully LayerOne KYC'd contract developer, there is a low risk of fraud.</br>
 </br>
 </br>
 NOTES:</br>
 </br>
- At the time of this KYC/audit the contract(s), liquidity pool(s), deployer wallet(s) and other wallets that control minting, withdrawals and other key functions all belong to individuals who have passed our KYC standards.</br>
+ At the time of this KYC/audit the contract(s), liquidity pool(s), deployer wallet(s) and other wallets that control minting, withdrawals and other key functions all belong to individuals who have not passed our KYC standards.</br>
  </br>
  A completed KYC as per LayerOne's standards is considered the one of the main safety factors in any project.  If this project has KYC's for all members with controlling wallets then we consider the project to be safe from potential rugging (a "rug" or "rugging" is fraud from within the team).</br>
 </br>
